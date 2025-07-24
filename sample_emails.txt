@@ -1,0 +1,43 @@
+--- EMAIL 1 ---
+From: TechCrunch Daily <newsletter@techcrunch.com>
+Subject: AI is reshaping productivity tools
+
+Hey Hemanth,
+
+In this issue, we explore how artificial intelligence is rapidly transforming productivity tools. Google has integrated its Gemini model into Docs and Sheets to assist users with content generation and formatting. Meanwhile, Notion has introduced an AI writing assistant that helps with summarization and brainstorming. Microsoft is also enhancing Office 365 with Copilot, offering intelligent suggestions and auto-summarization of meetings. These changes aren’t just time-savers — they represent a shift in how we interact with work tools. Dive deeper into this AI-driven evolution in today’s full article.
+
+– The TechCrunch Team
+
+
+********************************************************************************************************************************
+
+--- EMAIL 2 ---
+From: Amazon <order-update@amazon.in>
+Subject: Your Logitech Mouse has shipped!
+
+Hello Hemanth,
+
+Great news! Your order for the Logitech Wireless Mouse M235 has been shipped. It’s expected to arrive by Sunday, July 28. You can track your package using the link provided below. If you’re not available during delivery, don’t worry — we’ll try two more times. Thank you for shopping with Amazon. We hope you enjoy your new product.
+
+Track order: [Tracking Link]
+
+Regards,  
+Amazon Customer Support
+
+
+********************************************************************************************************************************
+--- EMAIL 3 ---
+From: Google Calendar <calendar-notifications@google.com>
+Subject: Weekly sync at 5 PM today
+
+You have a scheduled meeting:  
+"Weekly Sync"  
+Date: Thursday, July 24  
+Time: 5:00 PM – 5:30 PM  
+Location: Google Meet  
+Organizer: rahul@example.com
+
+Click below to join the meeting:  
+[Google Meet Link]  
+
+Don’t forget to attend!
