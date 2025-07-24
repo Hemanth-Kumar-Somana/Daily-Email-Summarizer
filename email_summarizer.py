@@ -14,8 +14,8 @@ import time
 
 # CONFIGURATION
 GMAIL_IMAP = 'imap.gmail.com'
-EMAIL_ACCOUNT = 'hemanthkumarapril18@gmail.com'  # <-- Your Gmail address
-EMAIL_PASSWORD = 'ejrl auab uuss jcik'           # <-- Your Gmail App Password (App-specific)
+EMAIL_ACCOUNT = 'emailid'  # <-- Your Gmail address
+EMAIL_PASSWORD = 'gmail-app-password'           # <-- Your Gmail App Password (App-specific)
 TIMEZONE = 'Asia/Kolkata'
 SUMMARY_TIME = 20                                # 8 PM
 SUMMARY_MINUTE = 0
