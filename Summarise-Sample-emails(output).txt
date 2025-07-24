@@ -1,0 +1,11 @@
+1. From: TechCrunch Daily <newsletter@techcrunch.com>
+Subject: AI is reshaping productivity tools
+Summary: AI is transforming productivity tools with Google’s Gemini in Docs, Notion’s smart assistant, and Microsoft’s Copilot in Office. These features save time and change digital work interaction.
+
+2. From: Amazon <order-update@amazon.in>
+Subject: Your Logitech Mouse has shipped!
+Summary: Your Logitech Mouse order has shipped and will arrive by July 28. Track it using the link. Amazon will attempt delivery up to three times.
+
+3. From: Google Calendar <calendar-notifications@google.com>
+Subject: Weekly sync at 5 PM today
+Summary: You have a weekly sync meeting today at 5 PM. Join using the Google Meet link sent in the invitation.
